@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2016
+title: HF/UHF Dual Band RFID Transponders for an Information-Driven Public Transportation System
+authors: Lukas Zoscher, Raphael Spreitzer, Hannes Gross, Jasmin Grosinger, Ulrich Muehlmann, Dominik Amschl, Hubert Watzinger, Wolfgang Bösch
+venue: Elektrotechnik und Informationstechnik 
+vatt: "133(3), 2016"
+vurl: https://link.springer.com/journal/502
+pdf: 
+web: 
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/ei/ZoscherSGGMAWB16
+pub: https://doi.org/10.1007/s00502-016-0405-y
+talk: 
+---
+

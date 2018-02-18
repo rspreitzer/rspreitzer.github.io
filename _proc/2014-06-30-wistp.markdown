@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2014
+title: Towards More Practical Time-Driven Cache Attacks
+authors: Raphael Spreitzer, Beno&icirc;t G&eacute;rard
+venue: WISTP 2014
+vurl: http://wistp2014.wistp.org/
+pdf: publications/proc/wistp-2014-paper.pdf
+web: 
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/wistp/SpreitzerG14
+pub: https://doi.org/10.1007/978-3-662-43826-8_3
+talk: publications/talks/wistp-2014-slides.pdf
+---
+

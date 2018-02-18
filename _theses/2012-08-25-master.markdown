@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2012
+title:  On the Applicability of Cache Attacks on Mobile Devices
+authors: Raphael Spreitzer
+venue: Master's Thesis, Graz University of Technology, 2012
+
+---
+

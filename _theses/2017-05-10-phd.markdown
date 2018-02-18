@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2017
+title:  Enhancements for Group Signatures and Side-Channel Attacks on Mobile Devices
+authors: Raphael Spreitzer
+venue: PhD Thesis, Graz University of Technology, 2017
+
+---
+

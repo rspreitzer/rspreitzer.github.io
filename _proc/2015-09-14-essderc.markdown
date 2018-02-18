@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2015
+title: "Concept for a Security Aware Automatic Fare Collection System Using HF/UHF Dual Band RFID Transponders"
+authors: Lukas Zoscher, Jasmin Grosinger, Raphael Spreitzer, Ulrich Muehlmann, Hannes Gross, Wolfgang Bösch
+venue: ESSDERC 2015
+vurl: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=36342
+pdf: 
+web: 
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/essderc/ZoscherGSMGB15
+pub: https://doi.org/10.1109/ESSDERC.2015.7324748
+talk: 
+---
+

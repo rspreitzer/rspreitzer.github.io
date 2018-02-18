@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2016
+title: "Android Side-Channel Attacks and Defenses"
+authors: Raphael Spreitzer
+venue: Panel discussion at WISEC 2016, Darmstadt, Germany, July 18, 2016
+vatt: 
+vurl: 
+web: https://www.sigsac.org/wisec/WiSec2016/
+talk: 
+---
+
+

@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2018
+title: "KeyDrown: Eliminating Software-Based Keystroke Timing Side-Channel Attacks"
+authors: Michael Schwarz, Moritz Lipp, Daniel Gruss, Samuel Weiser, Cl&eacute;mentine Maurice, Raphael Spreitzer, Stefan Mangard
+venue: NDSS 2018
+vurl: https://www.ndss-symposium.org/ndss2018/
+vatt: (in press)
+pdf: 
+web: 
+bib: 
+pub: 
+talk: 
+---
+

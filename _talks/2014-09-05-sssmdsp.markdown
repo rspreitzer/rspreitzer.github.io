@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2014
+title: "PIN Skimming: Exploiting the Ambient-Light Sensor in Mobile Devices"
+authors: Raphael Spreitzer
+venue: Summer School on Smart & Mobile Device Security and Privacy 2014, Padua, Italy, September 5, 2014
+vurl: 
+web: http://spritz.math.unipd.it/events/2014/SMDSP/
+talk: 
+---
+
+

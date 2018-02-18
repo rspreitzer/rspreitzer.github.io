@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2014
+title: "Attack Scenarios in RFID Applications"
+authors: Raphael Spreitzer
+venue: RFIDeas 2014, Graz, Austria, May 21, 2014
+vurl: 
+web: https://www.sfg.at/cms/4450/
+talk: 
+---
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2014
+title: "PIN Skimming: Exploiting the Ambient-Light Sensor in Mobile Devices"
+authors: Raphael Spreitzer
+venue: SPSM@CCS 2014
+vurl: http://www.spsm-workshop.org/2014/
+pdf: publications/proc/spsm-2014-paper.pdf
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/ccs/Spreitzer14
+pub: http://doi.acm.org/10.1145/2666620.2666622
+talk: publications/talks/spsm-2014-slides.pdf
+---
+
