@@ -5,11 +5,12 @@ title: "KeyDrown: Eliminating Software-Based Keystroke Timing Side-Channel Attac
 authors: Michael Schwarz, Moritz Lipp, Daniel Gruss, Samuel Weiser, Cl&eacute;mentine Maurice, Raphael Spreitzer, Stefan Mangard
 venue: NDSS 2018
 vurl: https://www.ndss-symposium.org/ndss2018/
-vatt: (in press)
-pdf: 
+vatt: 
+pdf: http://dx.doi.org/10.14722/ndss.2018.23027
 web: 
 bib: 
-pub: 
+pub: http://dx.doi.org/10.14722/ndss.2018.23027
 talk: 
+github: https://github.com/IAIK/keydrown
 ---
 
