@@ -1,0 +1,16 @@
+---
+layout: post
+year: 2018
+title: "ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android"
+authors: Raphael Spreitzer, Felix Kirchengast, Daniel Gruss, Stefan Mangard
+venue: ASIACCS 2018
+vurl: http://asiaccs2018.org/
+vatt: (Accepted)
+pdf: 
+web: 
+bib: 
+pub: 
+talk: 
+github: 
+---
+

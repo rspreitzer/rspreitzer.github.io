@@ -1,0 +1,16 @@
+---
+layout: post
+year: 2018
+title: "Single Trace Attack Against RSA Key Generation in Intel SGX SSL"
+authors: Samuel Weiser, Raphael Spreitzer, Lukas Bodner
+venue: ASIACCS 2018
+vurl: http://asiaccs2018.org/
+vatt: (Accepted)
+pdf: 
+web: 
+bib: 
+pub: 
+talk: 
+github: 
+---
+
