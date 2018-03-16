@@ -5,9 +5,9 @@ title: On the Applicability of Time-Driven Cache Attacks on Mobile Devices
 authors: Raphael Spreitzer, Thomas Plos
 venue: NSS 2013
 vurl: http://nsclab.org/nss2013/
-pdf: http://eprint.iacr.org/2013/172.pdf
-web: http://eprint.iacr.org/2013/172
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/nss/SpreitzerP13
+pdf: https://eprint.iacr.org/2013/172.pdf
+web: https://eprint.iacr.org/2013/172
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/nss/SpreitzerP13
 pub: https://doi.org/10.1007/978-3-642-38631-2_53
 talk: publications/talks/nss-2013-slides.pdf
 ---

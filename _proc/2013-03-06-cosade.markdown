@@ -8,7 +8,7 @@ vatt:
 vurl: https://cosade.telecom-paristech.fr/cosade13/
 pdf: publications/proc/cosade-2013-paper.pdf
 web: 
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/cosade/SpreitzerP13
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/cosade/SpreitzerP13
 pub: https://doi.org/10.1007/978-3-642-40026-1_13
 talk: publications/talks/cosade-2013-slides.pdf
 ---

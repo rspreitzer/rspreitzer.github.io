@@ -6,10 +6,10 @@ authors: Michael Schwarz, Moritz Lipp, Daniel Gruss, Samuel Weiser, Cl&eacute;me
 venue: NDSS 2018
 vurl: https://www.ndss-symposium.org/ndss2018/
 vatt: 
-pdf: http://dx.doi.org/10.14722/ndss.2018.23027
+pdf: https://dx.doi.org/10.14722/ndss.2018.23027
 web: 
 bib: 
-pub: http://dx.doi.org/10.14722/ndss.2018.23027
+pub: https://dx.doi.org/10.14722/ndss.2018.23027
 talk: 
 github: https://github.com/IAIK/keydrown
 ---

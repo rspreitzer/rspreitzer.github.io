@@ -5,9 +5,9 @@ title: "Non-Interactive Plaintext (In-)Equality Proofs and Group Signatures with
 authors: Olivier Blazy, David Derler, Daniel Slamanig, Raphael Spreitzer
 venue: CT-RSA 2016
 vurl: https://jpn.nec.com/rd/event/ct-rsa16.html
-pdf: http://eprint.iacr.org/2016/082.pdf
-web: http://eprint.iacr.org/2016/082
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/ctrsa/BlazyDSS16
+pdf: https://eprint.iacr.org/2016/082.pdf
+web: https://eprint.iacr.org/2016/082
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/ctrsa/BlazyDSS16
 pub: https://doi.org/10.1007/978-3-319-29485-8_8
 talk: publications/talks/ctrsa-2016-slides.pdf
 ---

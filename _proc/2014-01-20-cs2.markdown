@@ -6,8 +6,8 @@ authors: Raphael Spreitzer, J&ouml;rn-Marc Schmidt
 venue: CS2@HiPEAC 2014
 vurl: http://www.cs2.deib.polimi.it/main2014.html
 pdf: publications/proc/cs2-2014-paper.pdf
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/hipeac/SpreitzerS14
-pub: http://doi.acm.org/10.1145/2556315.2556321
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/hipeac/SpreitzerS14
+pub: https://doi.org/10.1145/2556315.2556321
 talk: publications/talks/cs2-2014-slides.pdf
 ---
 

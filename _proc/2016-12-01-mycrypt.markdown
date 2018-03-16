@@ -7,7 +7,7 @@ venue: Mycrypt 2016
 vurl: https://foe.mmu.edu.my/mycrypt2016/
 pdf: https://eprint.iacr.org/2016/1073.pdf
 web: https://eprint.iacr.org/2016/1073
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/mycrypt/SlamanigSU16
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/mycrypt/SlamanigSU16
 pub: https://doi.org/10.1007/978-3-319-61273-7_18
 talk: publications/talks/mycrypt-2016-slides.pdf
 ---

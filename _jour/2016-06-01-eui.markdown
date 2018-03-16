@@ -8,7 +8,7 @@ vatt: "133(3), 2016"
 vurl: https://link.springer.com/journal/502
 pdf: 
 web: 
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/ei/ZoscherSGGMAWB16
+bib: https://dblp.uni-trier.de/rec/bibtex/journals/ei/ZoscherSGGMAWB16
 pub: https://doi.org/10.1007/s00502-016-0405-y
 talk: 
 ---

@@ -8,8 +8,8 @@ vatt: "20(1), 2018"
 vurl: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739
 pdf: publications/jour/ieee-survey-2018-paper.pdf
 web: 
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/comsur/SpreitzerMKM18
-pub: http://ieeexplore.ieee.org/document/8141882/
+bib: https://dblp.uni-trier.de/rec/bibtex/journals/comsur/SpreitzerMKM18
+pub: https://doi.org/10.1109/COMST.2017.2779824
 talk: 
 ---
 

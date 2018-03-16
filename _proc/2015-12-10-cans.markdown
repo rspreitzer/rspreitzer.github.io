@@ -5,9 +5,9 @@ title: "Privacy-Aware Authentication in the Internet of Things"
 authors: Hannes Gross, Marko Hölbl, Daniel Slamanig, Raphael Spreitzer
 venue: CANS 2015
 vurl: 
-pdf: http://eprint.iacr.org/2015/1110.pdf
-web: http://eprint.iacr.org/2015/1110
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/cans/GrossHSS15
+pdf: https://eprint.iacr.org/2015/1110.pdf
+web: https://eprint.iacr.org/2015/1110
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/cans/GrossHSS15
 pub: https://doi.org/10.1007/978-3-319-26823-1_3
 talk: 
 ---

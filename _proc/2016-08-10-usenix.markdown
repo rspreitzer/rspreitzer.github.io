@@ -7,7 +7,7 @@ venue: USENIX Security 2016
 vurl: https://www.usenix.org/conference/usenixsecurity16
 pdf: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
 web: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/lipp
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/uss/LippGSMM16
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/uss/LippGSMM16
 pub: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
 github: https://github.com/IAIK/armageddon
 talk: 

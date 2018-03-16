@@ -5,9 +5,9 @@ title: Adding Controllable Linkability to Pairing-Based Group Signatures for Fre
 authors: Daniel Slamanig, Raphael Spreitzer, Thomas Unterluggauer
 venue: ISC 2014
 vurl: http://isc14.ie.cuhk.edu.hk/
-pdf: http://eprint.iacr.org/2014/607.pdf
-web: http://eprint.iacr.org/2014/607
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/isw/SlamanigSU14
+pdf: https://eprint.iacr.org/2014/607.pdf
+web: https://eprint.iacr.org/2014/607
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/isw/SlamanigSU14
 pub: https://doi.org/10.1007/978-3-319-13257-0_23
 talk: publications/talks/isc-2014-slides.pdf
 ---

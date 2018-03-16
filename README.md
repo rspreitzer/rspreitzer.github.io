@@ -1,6 +1,6 @@
 # Jekyll Environment for My Academic Website
 
-This repository contains the Jekyll environment, which is used to automatically generate my personal academic website hosted on github pages ([link](https://rspreitzer.github.io)). The theme has been inspired by ([link](http://derlerd.github.io)).
+This repository contains the Jekyll environment, which is used to automatically generate my personal academic website hosted on github pages ([link](https://rspreitzer.github.io)). The theme has been inspired by ([link](https://derlerd.github.io)).
 
 ## Publication List
 
@@ -20,4 +20,4 @@ To automatically generate the list of publications, the Jekyll post engine is us
 
 ## License
 
-The license for the code is inherited from [orderedlist/minimal](https://github.com/orderedlist/minimal), which was used as the basis for the theme. That is, the code is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+The license for the code is inherited from [orderedlist/minimal](https://github.com/orderedlist/minimal), which was used as the basis for the theme. That is, the code is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

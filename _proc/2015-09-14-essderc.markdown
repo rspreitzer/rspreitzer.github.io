@@ -7,7 +7,7 @@ venue: ESSDERC 2015
 vurl: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=36342
 pdf: 
 web: 
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/essderc/ZoscherGSMGB15
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/essderc/ZoscherGSMGB15
 pub: https://doi.org/10.1109/ESSDERC.2015.7324748
 talk: 
 ---

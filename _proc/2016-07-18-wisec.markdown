@@ -7,8 +7,8 @@ venue: WISEC 2016
 vurl: https://www.sigsac.org/wisec/WiSec2016/
 pdf: publications/proc/wisec-2016-paper.pdf
 web: 
-bib: http://dblp.uni-trier.de/rec/bibtex/conf/wisec/SpreitzerGKM16
-pub: http://doi.acm.org/10.1145/2939918.2939922
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/wisec/SpreitzerGKM16
+pub: https://doi.org/10.1145/2939918.2939922
 talk: publications/talks/wisec-2016-slides.pdf
 ---
 
