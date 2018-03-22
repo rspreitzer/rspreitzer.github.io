@@ -7,7 +7,7 @@ venue: NDSS 2018
 vurl: https://www.ndss-symposium.org/ndss2018/
 vatt: 
 pdf: https://dx.doi.org/10.14722/ndss.2018.23027
-web: 
+web: https://www.ndss-symposium.org/ndss2018/programme/
 bib: 
 pub: https://dx.doi.org/10.14722/ndss.2018.23027
 talk: 

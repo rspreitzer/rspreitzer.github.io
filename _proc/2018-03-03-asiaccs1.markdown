@@ -6,7 +6,7 @@ authors: Samuel Weiser, Raphael Spreitzer, Lukas Bodner
 venue: ASIACCS 2018
 vurl: http://asiaccs2018.org/
 vatt: (Accepted)
-pdf: 
+pdf: publications/proc/asiaccs-2018-paper-1.pdf
 web: 
 bib: 
 pub: 
