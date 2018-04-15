@@ -6,11 +6,11 @@ authors: Raphael Spreitzer, Felix Kirchengast, Daniel Gruss, Stefan Mangard
 venue: ASIACCS 2018
 vurl: http://asiaccs2018.org/
 vatt: (Accepted)
-pdf: 
+pdf: publications/proc/asiaccs-2018-paper-2.pdf
 web: 
 bib: 
 pub: 
 talk: 
-github: 
+github: https://github.com/IAIK/ProcHarvester
 ---
 
