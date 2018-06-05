@@ -6,10 +6,11 @@ authors: Raphael Spreitzer, Gerald Palfinger, Stefan Mangard
 venue: WISEC 2018
 vurl: https://wisec18.conf.kth.se/sites/index.html
 vatt: (Accepted)
-pdf: 
+pdf: publications/proc/wisec-2018-paper-2.pdf
 web: 
 bib: 
 pub: 
 talk: 
+github: https://github.com/IAIK/SCAnDroid
 ---
 
