@@ -9,7 +9,7 @@ pdf: publications/proc/asiaccs-2018-paper-2.pdf
 web: 
 bib: https://dblp.uni-trier.de/rec/bibtex/conf/ccs/SpreitzerKGM18
 pub: https://doi.org/10.1145/3196494.3196510
-talk: 
+talk: publications/talks/asiaccs-2018-slides-2.pdf
 github: https://github.com/IAIK/ProcHarvester
 ---
 
