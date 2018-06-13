@@ -6,10 +6,11 @@ authors: Johannes Feichtner, David Missmann, Raphael Spreitzer
 venue: WISEC 2018
 vurl: https://wisec18.conf.kth.se/sites/index.html
 vatt: (Accepted)
-pdf: 
+pdf: publications/proc/wisec-2018-paper-1.pdf
 web: 
 bib: 
 pub: 
 talk: 
+github: https://github.com/IAIK/ios-analysis
 ---
 
