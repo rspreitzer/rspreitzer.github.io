@@ -5,12 +5,12 @@ title: "SCAnDroid: Automated Side-Channel Analysis of Android APIs"
 authors: Raphael Spreitzer, Gerald Palfinger, Stefan Mangard
 venue: WISEC 2018
 vurl: https://wisec18.conf.kth.se/sites/index.html
-vatt: (Accepted)
+vatt: 
 pdf: publications/proc/wisec-2018-paper-2.pdf
 web: 
 bib: 
 pub: 
-talk: 
+talk: publications/talks/wisec-2018-slides-2.pdf
 github: https://github.com/IAIK/SCAnDroid
 ---
 
