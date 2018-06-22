@@ -1,0 +1,16 @@
+---
+layout: post
+year: 2018
+title: "DATA - Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries"
+authors: Samuel Weiser, Andreas Zankl, Raphael Spreitzer, Katja Miller, Stefan Mangard, Georg Sigl
+venue: USENIX Security 2018
+vurl: https://www.usenix.org/conference/usenixsecurity18
+vatt: (Accepted)
+pdf: 
+web: 
+bib: 
+pub: 
+github: 
+talk: 
+---
+
