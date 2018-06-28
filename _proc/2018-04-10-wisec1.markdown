@@ -9,7 +9,7 @@ vatt: (Accepted)
 pdf: publications/proc/wisec-2018-paper-1.pdf
 web: 
 bib: 
-pub: 
+pub: https://doi.org/10.1145/3212480.3212487
 talk: 
 github: https://github.com/IAIK/ios-analysis
 ---

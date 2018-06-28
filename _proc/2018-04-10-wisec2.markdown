@@ -9,7 +9,7 @@ vatt:
 pdf: publications/proc/wisec-2018-paper-2.pdf
 web: 
 bib: 
-pub: 
+pub: https://doi.org/10.1145/3212480.3212506
 talk: publications/talks/wisec-2018-slides-2.pdf
 github: https://github.com/IAIK/SCAnDroid
 ---
