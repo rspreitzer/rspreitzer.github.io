@@ -5,7 +5,7 @@ title: "Automated Binary Analysis on iOS - A Case Study on Cryptographic Misuse 
 authors: Johannes Feichtner, David Missmann, Raphael Spreitzer
 venue: WISEC 2018
 vurl: https://wisec18.conf.kth.se/sites/index.html
-vatt: (Accepted)
+vatt: 
 pdf: publications/proc/wisec-2018-paper-1.pdf
 web: 
 bib: 
