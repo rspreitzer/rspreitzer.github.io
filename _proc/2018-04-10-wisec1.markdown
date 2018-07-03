@@ -8,7 +8,7 @@ vurl: https://wisec18.conf.kth.se/sites/index.html
 vatt: 
 pdf: publications/proc/wisec-2018-paper-1.pdf
 web: 
-bib: 
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/wisec/FeichtnerMS18
 pub: https://doi.org/10.1145/3212480.3212487
 talk: 
 github: https://github.com/IAIK/ios-analysis
