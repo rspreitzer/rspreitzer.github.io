@@ -6,11 +6,11 @@ authors: Samuel Weiser, Andreas Zankl, Raphael Spreitzer, Katja Miller, Stefan M
 venue: USENIX Security 2018
 vurl: https://www.usenix.org/conference/usenixsecurity18
 vatt: (Accepted)
-pdf: 
+pdf: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf
 web: 
 bib: 
-pub: 
-github: 
+pub: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf
+github: https://github.com/Fraunhofer-AISEC/DATA
 talk: 
 ---
 
