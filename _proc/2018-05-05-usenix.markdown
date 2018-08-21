@@ -7,8 +7,8 @@ venue: USENIX Security 2018
 vurl: https://www.usenix.org/conference/usenixsecurity18
 vatt: (Accepted)
 pdf: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf
-web: 
-bib: 
+web: https://www.usenix.org/conference/usenixsecurity18/presentation/weiser
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/uss/WeiserZSMMS18
 pub: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf
 github: https://github.com/Fraunhofer-AISEC/DATA
 talk: 
