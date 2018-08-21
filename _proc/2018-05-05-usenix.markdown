@@ -5,7 +5,7 @@ title: "DATA - Differential Address Trace Analysis: Finding Address-based Side-C
 authors: Samuel Weiser, Andreas Zankl, Raphael Spreitzer, Katja Miller, Stefan Mangard, Georg Sigl
 venue: USENIX Security 2018
 vurl: https://www.usenix.org/conference/usenixsecurity18
-vatt: (Accepted)
+vatt: 
 pdf: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf
 web: https://www.usenix.org/conference/usenixsecurity18/presentation/weiser
 bib: https://dblp.uni-trier.de/rec/bibtex/conf/uss/WeiserZSMMS18
