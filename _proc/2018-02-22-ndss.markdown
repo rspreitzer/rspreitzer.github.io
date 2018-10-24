@@ -8,7 +8,7 @@ vurl: https://www.ndss-symposium.org/ndss2018/
 vatt: 
 pdf: https://dx.doi.org/10.14722/ndss.2018.23027
 web: https://www.ndss-symposium.org/ndss2018/programme/
-bib: 
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/ndss/0001LGWMSM18
 pub: https://dx.doi.org/10.14722/ndss.2018.23027
 talk: 
 github: https://github.com/IAIK/keydrown
