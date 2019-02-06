@@ -1,15 +1,15 @@
 # Site settings
-description: Academic Website of Raphael Spreitzer, IAIK, Graz University of Technology, Graz, Austria
-keywords: Raphael Spreitzer, Security, Privacy, IAIK, Graz University of Technology
-title: Raphael Spreitzer | IAIK, Graz University of Technology
+description: Academic Website of Raphael Spreitzer, SGS, Graz, Austria
+keywords: Raphael Spreitzer, Security, Privacy, SGS
+title: Raphael Spreitzer | SGS
 
 author: Raphael Spreitzer
 authorimg: images/rs.png
-authoroccup: Researcher (Security & Privacy)
-inst: IAIK
-insturl: https://www.iaik.tugraz.at
-uni: Graz University of Technology
-uniurl: https://www.tugraz.at
+authoroccup: Principal Security Expert
+#inst: Secure Products & Systems
+#insturl: 
+uni: SGS
+uniurl: https://www.sgs.com/
 email: raphael.spreitzer@gmail.com
 
 twitter: rspreitzer_
