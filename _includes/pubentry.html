@@ -1,6 +1,6 @@
 <tr class="pubentry">
   <td>{{post.year}}</td>
-  <td>{{post.authors}} - <b><i>"{{post.title}}"</i></b> - {% if post.vurl %}<a href="{{post.vurl}}">{{post.venue}}</a>{% else %}{{post.venue}}{% endif %}{% if post.vatt %}, {{post.vatt}}{% endif %}.</td>
+  <td>{{post.authors}} - <b><i>"{{post.title}}"</i></b> - {% if post.vurl %}<a href="{{post.vurl}}">{{post.venue}}</a>{% else %}{{post.venue}}{% endif %}{% if post.vatt %}, {{post.vatt}}{% endif %}{% if post.cveurl %}, <a href="{{post.cveurl}}">{{post.cve}}</a>{% else %}{{post.cve}}{% endif %}.</td>
   <td>
     <table class="dltable">
       <tr>

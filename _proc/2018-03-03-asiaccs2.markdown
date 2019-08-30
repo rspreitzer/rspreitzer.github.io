@@ -11,5 +11,7 @@ bib: https://dblp.uni-trier.de/rec/bibtex/conf/ccs/SpreitzerKGM18
 pub: https://doi.org/10.1145/3196494.3196510
 talk: publications/talks/asiaccs-2018-slides-2.pdf
 github: https://github.com/IAIK/ProcHarvester
+cve: CVE-2019-9277
+cveurl: https://source.android.com/security/overview/release-acknowledgements
 ---
 
