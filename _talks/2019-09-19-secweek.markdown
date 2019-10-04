@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2019
+title: "Security Testing: Fuzzing - How to Break Things with Random Input"
+authors: Raphael Spreitzer
+venue: Graz Security Days for Industry 2019
+vatt: Graz, Austria, September 19, 2019
+vurl: https://www.securityweek.at
+web: 
+talk: 
+---
+
+
