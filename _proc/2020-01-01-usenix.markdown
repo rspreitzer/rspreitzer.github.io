@@ -1,0 +1,16 @@
+---
+layout: post
+year: 2020
+title: "Big Numbers - Big Troubles: Systematically Analyzing Nonce Leakage in (EC)DSA Implementations"
+authors: Samuel Weiser, David Schrammel, Lukas Bodner, Raphael Spreitzer
+venue: USENIX Security 2020
+vurl: https://www.usenix.org/conference/usenixsecurity20
+vatt: (accepted)
+pdf: 
+web: https://www.usenix.org/conference/usenixsecurity20/presentation/weiser
+bib: 
+pub: 
+github: https://github.com/Fraunhofer-AISEC/DATA
+talk: 
+---
+
