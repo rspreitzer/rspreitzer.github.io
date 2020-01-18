@@ -5,12 +5,12 @@ title: "Big Numbers - Big Troubles: Systematically Analyzing Nonce Leakage in (E
 authors: Samuel Weiser, David Schrammel, Lukas Bodner, Raphael Spreitzer
 venue: USENIX Security 2020
 vurl: https://www.usenix.org/conference/usenixsecurity20
-vatt: (accepted)
-pdf: 
+vatt: 
+pdf: https://www.usenix.org/system/files/sec20summer_weiser_prepub_0.pdf
 web: https://www.usenix.org/conference/usenixsecurity20/presentation/weiser
 bib: 
-pub: 
-github: https://github.com/Fraunhofer-AISEC/DATA
+pub: https://www.usenix.org/system/files/sec20summer_weiser_prepub_0.pdf
+github: https://github.com/IAIK/data-gui
 talk: 
 ---
 
