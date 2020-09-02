@@ -8,7 +8,7 @@ vurl: https://www.usenix.org/conference/usenixsecurity20
 vatt: 
 pdf: https://www.usenix.org/system/files/sec20summer_weiser_prepub_0.pdf
 web: https://www.usenix.org/conference/usenixsecurity20/presentation/weiser
-bib: 
+bib: https://dblp.uni-trier.de/rec/conf/uss/WeiserSBS20.html?view=bibtex
 pub: https://www.usenix.org/system/files/sec20summer_weiser_prepub_0.pdf
 github: https://github.com/IAIK/data-gui
 talk: 
