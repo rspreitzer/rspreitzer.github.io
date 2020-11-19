@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2020
+title: "Certifying IoT Devices: Challenges from the Real World"
+authors: Raphael Spreitzer
+venue: International Common Criteria Conference 2020
+vatt: Virtual Conference, November 18, 2020
+vurl: https://iccconference.org/
+web: 
+talk: 
+---
+
+
