@@ -6,6 +6,14 @@ body {
   font-weight:400;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 5ex;
+}
+
 .navbar {
   background-color: #fff;
   position: fixed;
@@ -347,7 +355,6 @@ footer {
     padding:15px;
   }
 
-  
 
   
 }
