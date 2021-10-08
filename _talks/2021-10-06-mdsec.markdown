@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2021
+title: "Determining a Minimum Set of Cybersecurity Requirements for Medical Devices"
+authors: Raphael Spreitzer
+venue: European Medical Device Cybersecurity Virtual Conference
+vatt: Virtual Conference, October 6, 2021
+vurl: https://www.medtechcybersecurity.com
+web: 
+talk: 
+---
+
+
