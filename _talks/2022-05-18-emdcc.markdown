@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2022
+title: "Cybersecurity Evaluations of Medical Devices and Support Activities"
+authors: Raphael Spreitzer
+venue: European Medical Device Cybersecurity  Conference
+vatt: Brussels, Belgium, May 18, 2022
+vurl: https://www.medtechcybersecurity.com
+web: 
+talk: 
+---
+
+
